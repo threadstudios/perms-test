@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Paul Westerdale",
+        "organisation": 201,
+        "roles": []
+    },
+    {
+        "id": 2,
+        "name": "Bailey Westerdale",
+        "organisation": 202,
+        "roles": []
+    },
+    {
+        "id": 3,
+        "name": "Nala Westerdale",
+        "organisation": 203,
+        "roles": [
+            "admin.user.manage"
+        ]
+    }
+]

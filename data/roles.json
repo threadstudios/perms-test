@@ -1,0 +1,9 @@
+[
+    {
+        "key": "admin.user.manage",
+        "permissions": [
+            "canCreateUser",
+            "canGetAllOrganisations"
+        ]
+    }
+]

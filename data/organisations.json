@@ -1,0 +1,26 @@
+[
+    {
+        "id": 201,
+        "name": "Thread Basic",
+        "users": [
+            1
+        ],
+        "tier": "basic"
+    },
+    {
+        "id": 202,
+        "name": "Thread Elite",
+        "users": [
+            2
+        ],
+        "tier": "elite"
+    },
+    {
+        "id": 203,
+        "name": "ABC Corp",
+        "users": [
+            3
+        ],
+        "tier": "elite"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 401,
+        "name": "Project A",
+        "status": "Active",
+        "capScore": 12
+    },
+    {
+        "id": 402,
+        "name": "Project B",
+        "status": "NotYetVisible",
+        "capScore": 12
+    }
+]

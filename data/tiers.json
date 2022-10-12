@@ -1,0 +1,15 @@
+[
+    {
+        "key": "basic",
+        "permissions": [
+            "canSeeProjects"
+        ]
+    },
+    {
+        "key": "elite",
+        "permissions": [
+            "canSeeProjects",
+            "canSeeCapScores"
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "entityFromId": 1,
+        "entityToId": 402,
+        "permission": "canSeeProject"
+    }
+]
